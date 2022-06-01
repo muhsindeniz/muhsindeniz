@@ -10,7 +10,7 @@
             </a>
             Hi, there! I am Muhsin Deniz
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/blob/main/hi.gif">
-                <img src="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/raw/main/hi.gif" width="30px" style="max-width: 100%;" />
+                <img src="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/raw/main/hi.gif" width="30px" style="max-width: 30px;" />
             </a>
         </h1>
     </div>
