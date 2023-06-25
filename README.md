@@ -16,6 +16,3 @@ Hello, I'm Muhsin Deniz. I am a Computer Engineering graduate and have a strong 
 ## ⭐️ Communities 
 
 - Frontend Central (Student Ambassador)
-
-
-## 📚 More Projects
