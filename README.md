@@ -12,7 +12,7 @@
 
 <img align="right" src="https://www.iroidtechnologies.com/static/home/images/oew_rrybb.gif" width='200' />
 
-Hello, I'm Muhsin Deniz. I am a Computer Engineering graduate and have a strong background in Frontend. In the first 3 years of my career, I worked as Frontend and Fullstack in various projects in corporate companies, then I developed myself as a Frontend Developer in different startup companies for 2 years. In addition to being a passionate software developer in this field, I have a great desire to share my knowledge and support software communities. In addition to my professional work, I am constantly expanding my knowledge through activities such as writing articles on various platforms and sharing my experiences by attending conferences.
+Hello, I'm Muhsin Deniz. I am a Computer Engineering graduate and have a strong background in Frontend. In the first 3 years of my career, I worked as Frontend and Fullstack in various projects in corporate companies, then I developed projects as a Freelance Frontend Developer in many different startup companies for 2 years, so I have 5 years of experience. As well as being a passionate software developer in this field, I have a great desire to share my knowledge and support software communities. In addition to my professional work, I am constantly expanding my knowledge through activities such as writing articles on various platforms, attending conferences and sharing my experiences.
 
 ## 👨‍💻 Professional Skills
 
