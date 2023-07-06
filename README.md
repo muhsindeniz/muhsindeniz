@@ -16,7 +16,7 @@ Hello, I'm Muhsin Deniz. I am a Computer Engineering graduate and have a strong 
 
 ## 👨‍💻 Professional Skills
 
--  **FrontEnd:**  React, NextJS (TypeScript, JavaScript), (Tailwind - Chakra - Ant Design - Bootstrap)
+-  **FrontEnd:**  React, NextJS (TypeScript, JavaScript), (Tailwind - Chakra UI - Ant Design - Bootstrap)
 -  **BackEnd:**  NodeJS, Express
 -  **DevOps:**  Docker
 -  **Database:**  Relational Database (MySQL) / Non-Relational Database (MongoDB, Firebase)
